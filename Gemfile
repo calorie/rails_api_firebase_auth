@@ -5,7 +5,7 @@ ruby '2.6.4'
 
 gem 'rails', '~> 5.2.4'
 gem 'mysql2', '>= 0.4.4', '< 0.6.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'fast_jsonapi'
 gem 'firebase-auth-id_token_keeper'
